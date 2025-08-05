@@ -1,4 +1,4 @@
-## Hi there 👋
+
 🌪️ Oi, eu sou a May!
 
 ### < CodeMayPy /> — Desenvolvedora em forma de furacão 💻⚡
