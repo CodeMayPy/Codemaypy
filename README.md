@@ -1,18 +1,18 @@
 
 🌪️ Oi, eu sou a May!
 
-### < CodeMayPy /> — Desenvolvedora em forma de furacão 💻⚡
+### < CodeMayPy /> Desenvolvedora em forma de furacão 💻⚡
 
 > *"Eu não vim do zero. Vim do caos. E transformei em coragem."*
 
 Atualmente:
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🛡️ Estudando **Cibersegurança e Hacking Ético** (modo grimoire hacker ativado)
-- 🐍 Programando em **Python**, **HTML5**, **CSS3** e começando meus passos no **JavaScript**
-- 🌐 Me aprofundando nos bastidores da internet — DNS, IPs, firewalls, e tudo que respira TCP/IP
-- 💡 TDAH Friendly: meus projetos são feitos por blocos, com intenção e paixão
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+🛡️ Estudando **Cibersegurança e Hacking Ético** (modo grimoire hacker ativado)
+🐍 Programando em **Python**, **HTML5**, **CSS3** e começando meus passos no **JavaScript**
+🌐 Me aprofundando nos bastidores da internet — DNS, IPs, firewalls, e tudo que respira TCP/IP
+💡 TDAH Friendly: meus projetos são feitos por blocos, com intenção e paixão
 
----
+
 
 ## 🚀 Projetos em Destaque
 
