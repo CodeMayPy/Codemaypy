@@ -9,7 +9,7 @@ Atualmente:
 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 🛡️ Estudando **Cibersegurança e Hacking Ético** (modo grimoire hacker ativado)
 🐍 Programando em **Python**, **HTML5**, **CSS3** e começando meus passos no **JavaScript**
-🌐 Me aprofundando nos bastidores da internet — DNS, IPs, firewalls, e tudo que respira TCP/IP
+🌐 Me aprofundando nos bastidores da internet / DNS, IPs, firewalls, e tudo que respira TCP/IP
 💡 TDAH Friendly: meus projetos são feitos por blocos, com intenção e paixão
 
 
