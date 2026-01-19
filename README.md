@@ -14,14 +14,6 @@ Atualmente:
 
 
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição |
-|--------|------------|
-| `html-css-chatbot` | Chatbot estiloso com HTML + CSS, do jeitinho que aprendi no curso em vídeo |
-| `cyber-notes` | Meu grimório hacker pessoal, com anotações de redes, segurança e sistemas |
-| `py-bender` | Script Python em homenagem ao Bender, meu cachorro assistente 💖 |
-
 ---
 
 ## 🧠 Habilidades em Expansão
