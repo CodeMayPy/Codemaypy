@@ -78,5 +78,4 @@ Descrição simples com mais linhas, listas, informações sobre o projeto:
 
 Feito com 💜 por @CodeMayPy
 
-<img width="512" height="512" alt="Nivelamento" src="https://github.com/user-attachments/assets/d28dca36-5890-47a7-858e-8db0599e7d55" />
-<img width="512" height="512" alt="Básico" src="https://github.com/user-attachments/assets/c2e104e5-e239-4efc-b613-df67af93c7b5" />
+
