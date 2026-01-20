@@ -6,13 +6,12 @@
 > *"Eu não vim do zero. Vim do caos. E transformei em coragem."*
 
 
----
 
 🧠 Habilidades em Expansão
 💻 Linguagens e Tecnologias
 🛠️ Ferramentas & Infra
 
----
+
 
 Atualmente:
 🎓 Cursando ** 2º Semestre de Análise e Desenvolvimento de Sistemas**
