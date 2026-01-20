@@ -17,7 +17,7 @@ Orgulhosamente progredindo na trilha do Hackers do Bem:
 🧠 Habilidades em Expansão:
 
 💻 Linguagens e Tecnologias
-🛠️ Ferramentas & Infra
+🛠️ Ferramentas & Infra <br>
 
 
 
