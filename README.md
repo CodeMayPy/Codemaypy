@@ -5,24 +5,23 @@
 
 > *"Eu não vim do zero. Vim do caos. E transformei em coragem."*
 
+
+---
+
+🧠 Habilidades em Expansão
+💻 Linguagens e Tecnologias
+🛠️ Ferramentas & Infra
+
+---
+
 Atualmente:
-🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-🛡️ Estudando **Cibersegurança e Hacking Ético** (modo grimoire hacker ativado)
-🐍 Programando em **Python**, **HTML5**, **CSS3** e começando meus passos no **JavaScript**
-🌐 Me aprofundando nos bastidores da internet / DNS, IPs, firewalls, e tudo que respira TCP/IP
+🎓 Cursando ** 2º Semestre de Análise e Desenvolvimento de Sistemas**
+🛡️ Modo Grimoire Hacker ativado: me aprofundando em Redes, DNS, IPs, Firewalls e TCP/IP.
 💡 TDAH Friendly: meus projetos são feitos por blocos, com intenção e paixão
 
 
 
----
 
-## 🧠 Habilidades em Expansão
-
-- Linguagens: `Python`, `HTML`, `CSS`, `JavaScript`
-- Ferramentas: `Git & GitHub`, `Linux Ubuntu`, `VS Code`
-- Conceitos: `Redes de Computadores`, `Sistemas Operacionais`, `Segurança da Informação`
-
----
 
 ## 💬 Contato & Redes
 
@@ -39,15 +38,24 @@ class May:
     def __init__(self):
         self.nome = "Mayara"
         self.apelido = "May / CodeMayPy"
-        self.fase = "Renascimento"
+        self.fase = "Renascimento - 2º Semestre ADS "
         self.missao = "Hackear sistemas e a vida, com ética e coragem."
 
     def estudar(self):
-        return ["Python", "HTML", "CSS", "JavaScript", "Cibersegurança"]
+        return ["Python", "Java", "Web Dev", "Cibersegurança"]
 
     def sonhar(self):
         return "Fazer da tecnologia minha liberdade"
 ```
+
+---
+🛡️ Formação Hacker & Cibersegurança
+
+Orgulhosamente progredindo na trilha do Hackers do Bem:
+
+<div align="center"> <img src="Nivelamento.png" width="150" alt="Selo Nivelamento Hackers do Bem"> <img src="Básico.png" width="150" alt="Selo Básico Hackers do Bem"> </div>
+
+---
 
 ---
 
