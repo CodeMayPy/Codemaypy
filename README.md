@@ -5,9 +5,17 @@
 
 > *"Eu não vim do zero. Vim do caos. E transformei em coragem."*
 
+---
+🛡️ Formação Hacker & Cibersegurança
 
+Orgulhosamente progredindo na trilha do Hackers do Bem:
 
-🧠 Habilidades em Expansão
+<div align="center"> <img src="Nivelamento.png" width="150" alt="Selo Nivelamento Hackers do Bem"> <img src="Básico.png" width="150" alt="Selo Básico Hackers do Bem"> </div>
+
+---
+
+🧠 Habilidades em Expansão:
+
 💻 Linguagens e Tecnologias
 🛠️ Ferramentas & Infra
 
@@ -47,14 +55,7 @@ class May:
         return "Fazer da tecnologia minha liberdade"
 ```
 
----
-🛡️ Formação Hacker & Cibersegurança
 
-Orgulhosamente progredindo na trilha do Hackers do Bem:
-
-<div align="center"> <img src="Nivelamento.png" width="150" alt="Selo Nivelamento Hackers do Bem"> <img src="Básico.png" width="150" alt="Selo Básico Hackers do Bem"> </div>
-
----
 
 ---
 
