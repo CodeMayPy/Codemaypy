@@ -24,9 +24,9 @@ Orgulhosamente progredindo na trilha do Hackers do Bem:
 
 📚Atualmente:
 
-🎓 Cursando ** 2º Semestre de Análise e Desenvolvimento de Sistemas**
-🛡️ Modo Grimoire Hacker ativado: me aprofundando em Redes, DNS, IPs, Firewalls e TCP/IP.
-💡 TDAH Friendly: meus projetos são feitos por blocos, com intenção e paixão
+🎓 Cursando: **2º Semestre de Análise e Desenvolvimento de Sistemas**
+🛡️ Modo **Grimoire Hacker** ativado: me aprofundando em Redes, DNS, IPs, Firewalls e TCP/IP.
+💡 **TDAH** Friendly: meus projetos são feitos por blocos, com intenção e paixão
 
 
 
@@ -73,11 +73,11 @@ Se quiser me acompanhar nessa jornada hacker-poética-tech, bora juntos!
 
 Descrição simples com mais linhas, listas, informações sobre o projeto:
 
-- Projeto de estudos em Python
-- Quanto tempo de evolução
-- Como executar
-- Tecnologias usadas
+- Projeto de estudos em Python, Desenvolvimento Web e Java;
+- Quanto tempo de evolução;
+- Como executar;
+- Tecnologias usadas.
 
-Feito com 💜 por @CodeMayPy
+Feito com 💜 e ☕ por @CodeMayPy
 
 
