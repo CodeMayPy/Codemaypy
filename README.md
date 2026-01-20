@@ -22,11 +22,11 @@ Orgulhosamente progredindo na trilha do Hackers do Bem:
 
 
 
-📚Atualmente:
+📚Atualmente:<br> 
 
-🎓 Cursando: **2º Semestre de Análise e Desenvolvimento de Sistemas**
-🛡️ Modo **Grimoire Hacker** ativado: me aprofundando em Redes, DNS, IPs, Firewalls e TCP/IP.
-💡 **TDAH** Friendly: meus projetos são feitos por blocos, com intenção e paixão
+🎓 Cursando: **2º Semestre de Análise e Desenvolvimento de Sistemas**<br>
+🛡️ Modo **Grimoire Hacker** ativado: me aprofundando em Redes, DNS, IPs, Firewalls e TCP/IP.<br>
+💡 **TDAH** Friendly: meus projetos são feitos por blocos, com intenção e paixão.
 
 
 
