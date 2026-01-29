@@ -16,10 +16,6 @@ Orgulhosamente progredindo na trilha do Hackers do Bem:
 
 ## 📊 Minha atividade
 
-![snake gif](https://github.com/CodeMayPy/CodeMayPy/blob/output/github-contribution-grid-snake.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMayPy&theme=midnight-purple)
-
 🧠 Habilidades em Expansão:
 
 💻 Linguagens e Tecnologias
