@@ -18,8 +18,7 @@ Orgulhosamente progredindo na trilha do Hackers do Bem:
 
 ![snake gif](https://github.com/CodeMayPy/CodeMayPy/blob/output/github-contribution-grid-snake.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMayPy&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMayPy&theme=midnight-purple)
 
 🧠 Habilidades em Expansão:
 
