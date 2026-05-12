@@ -83,3 +83,4 @@ Descrição simples com mais linhas, listas, informações sobre o projeto:
 Feito com 💜 e ☕ por @CodeMayPy
 
 
+![Visualizações](https://itsthismypony.vercel.app/api?user=CodeMayPy&name=CodeMayPy&color=00FF00)
