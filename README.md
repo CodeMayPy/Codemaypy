@@ -65,22 +65,16 @@ class May:
 
 ### Obrigada por visitar meu cantinho no GitHub 🌻
 Se quiser me acompanhar nessa jornada hacker-poética-tech, bora juntos!
+
+```
+Feito com 💜 e ☕ por @CodeMayPy
 ```
 
 
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FCodeMayPy&label=&icon=code-square&color=%239141ac&message=&style=flat&tz=UTC)
 
 
-# Code.Maypy 🐍✨
-
-Descrição simples com mais linhas, listas, informações sobre o projeto:
-
-- Projeto de estudos em Python, Desenvolvimento Web e Java;
-- Quanto tempo de evolução;
-- Como executar;
-- Tecnologias usadas.
-
-Feito com 💜 e ☕ por @CodeMayPy
 
 
-![Visualizações](https://itsthismypony.vercel.app/api?user=CodeMayPy&name=CodeMayPy&color=00FF00)
+
