@@ -94,7 +94,7 @@ Se quiser trocar ideia sobre tech, cibersegurança, ou só mandar um meme — t�
 Se quiser me acompanhar nessa jornada hacker-poética-tech, bora juntos!
 
 ```
-Feito com 💜 e ☕ por @CodeMayPy
+Feito com 💜 e ☕
 ```
 
 ---
